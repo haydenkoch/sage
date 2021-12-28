@@ -18,7 +18,7 @@
   </a>
 
   <a href="https://twitter.com/haydenkoch">
-    <img alt="Follow Roots" src="https://img.shields.io/twitter/follow/haydenkoch.svg?style=flat-square&color=1da1f2" />
+    <img alt="Follow Roots" src="https://img.shields.io/twitter/follow/haydenkoch.svg?style=plastic&color=1da1f2" />
   </a>
 </p>
 
